@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627991578720",
+    "project_id": "fragrancex-19d65",
+    "storage_bucket": "fragrancex-19d65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627991578720:android:c520270be482ea9867db05",
+        "android_client_info": {
+          "package_name": "com.example.fragrancex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxRG1-jl04gPHMz3ri0cZbfPCQaeKHSsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
